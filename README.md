@@ -5,4 +5,4 @@ With March Madness right around the corner it time again to dig into the numbers
 
 For this analysis, we will be using data from 413 NCAA tournament games over 2013-2018.  We will take into account the high and low seeds’ offensive and defensive metrics as well as the distance traveled for each matchup .  Our model attempts to predict to whether the high seed will win or lose the game. 
 
-Read Here: 
+Read Here: https://beyondtheaverage.wordpress.com/2019/03/08/march-madness-modeling/
